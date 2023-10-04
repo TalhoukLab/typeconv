@@ -1,7 +1,7 @@
 Package: typeconv
 Title: Convert data package variables to their native types
-Version: 0.0.0.9000
-Date: 2023-10-03
+Version: 0.0.0.9001
+Date: 2023-10-04
 Authors@R: c(
     person("Derek", "Chiu", , "dchiu@bccrc.ca", role = c("aut", "cre")),
     person("Samuel", "Leung", , "Samuel.Leung@vch.ca", role = "aut")
