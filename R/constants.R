@@ -17,12 +17,13 @@ ALL_MISSING <- unique(
   )
 )
 
-# Atrtibutes
+# Attributes
 ATTR_VAR_NAME <- "var_name"
 ATTR_VAR_DATA_TYPE <- "var_data_type"
 ATTR_VAR_DATA_TYPE_FACTOR <- "factor"
 ATTR_VAR_DATA_TYPE_NUMERIC <- "numeric"
 ATTR_VAR_DATA_TYPE_DATE <- "date"
 ATTR_VAR_DATA_TYPE_CHARACTER <- "character"
+ATTR_VAR_DATA_CAT <- "var_data_category"
 ATTR_VAR_DATE_FORMAT <- "var_date_format"
 ATTR_VAR_VALUE_LABELS <- "var_value_labels"
